@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Ranchers&display=swap');
+
+*{
+    font-weight: bold;
+    font-family: Rancher;
+}
+
+h1{
+    font-size: 60px;
+}
+
+ul{
+    font-size: 30px;
+}
+
+li:first-child{
+    color: #9a464c;
+}
+li:nth-child(0n+2){
+    color: #ffe774;
+}
+
+li:nth-child(0n+3){
+    color: #4a4354;
+}
+
+li:nth-child(0n+4){
+    color: #e1e36e;
+}
+
+li:nth-child(0n+5){
+    color:#ffa500;
+}
+
+li:nth-child(0n+6){
+    color: #eef9c1;
+}
+
+li:nth-child(0n+7){
+    color: #CCff00;
+}
+
+li:nth-child(0n+8){
+    color: #f9d4b8;
+}
+
+li:nth-child(0n+9){
+    color: #edadaa;
+}
+
+li:last-child {
+    color: #ffc281;
+}

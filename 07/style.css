@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald&display=swap');
+
+h1{
+    font-size: 40px;
+}
+
+h1, h2{
+    font-family: lobster; 
+}
+
+h2{
+    font-size: 30px;
+}
+
+h2, ul{
+    text-align: center;
+}
+
+ul{
+    font-family: Oswald;
+    color: beige;
+    list-style: none;
+}
+
+.her li:first-child{
+    background-color: #542437;
+}
+
+.her li:nth-child(2){
+    background-color: #C02942;
+}
+
+.her li:nth-child(3){
+    background-color: #D95B43;
+}
+
+.her li:nth-child(4){
+    background-color:#ECD078;
+    color: rgb(110, 95, 72);
+}
+
+.her li:last-child{
+    background-color:#53777A;
+}
+
+.eternal li:first-child{
+    background-color: rgb(35,97,146);
+}
+
+.eternal li:nth-child(2){
+    background-color: rgb(45,41,38);
+}
+
+.eternal li:nth-child(3){
+    background-color: rgb(220,88,42);
+}
+
+.eternal li:nth-child(4){
+    background-color: rgb(145,157,157);
+}
+
+.eternal li:last-child{
+    background-color: rgb(203,196,188);
+}
+
+.lost li:first-child{
+    background-color: hsl(235, 53%, 92%);
+    color: rgb(110, 95, 72);
+}
+
+.lost li:nth-child(2){
+    background-color: hsl(210, 23%, 67%);
+}
+
+.lost li:nth-child(3){
+    background-color: hsl(219, 42%, 67%);
+}
+.lost li:nth-child(4){
+    background-color: hsl(206, 85%, 13%);
+}
+.lost li:last-child{
+    background-color: hsl(203, 100%, 8%);
+}

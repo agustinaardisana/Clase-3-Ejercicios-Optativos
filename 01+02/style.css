@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+h1{
+    font-size: 120px;
+    font-weight: 800;
+    font-family: 'walter turncoat';
+    background-color: rgb(29, 27, 27);
+    color: #fafafa;
+}
+
+body{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: ubuntu;
+}
+
+.nombre{
+color: sandybrown
+}
+
+.categ_1{
+color: slategray;
+}
+
+.categ_2{
+color: rgb(179, 214, 245)
+}
+
+.categ_3{
+color: rgb(131, 184, 184)
+}

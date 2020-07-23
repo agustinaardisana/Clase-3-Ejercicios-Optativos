@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    font-family: roboto;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 50px;
+}
+.cent{
+    text-align: center;
+}
+
+.izq{
+    text-align: left;
+}
+
+.der{
+    text-align: right;
+}

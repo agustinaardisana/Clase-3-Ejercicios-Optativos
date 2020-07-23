@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+h1{
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'roboto slab';
+}
+
+.autor{
+    color: gray;
+    font-family: 'roboto slab';
+}
+
+a{
+    color: rgb(126, 202, 250);
+    text-decoration: none;
+    font-family: 'roboto slab;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.italic_2{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bold{
+    font-weight: 600;
+}
